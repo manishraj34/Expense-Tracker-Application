@@ -21,7 +21,7 @@ Navigate to the src folder and run the main file:
 
 The application will prompt you to enter the amount, date, category, and description.
 
-![image](https://github.com/user-attachments/assets/e1543552-77d2-4434-bdf9-41e264db40e4)
+<img src="![alt text](image.png)" height="400" width="800">
 
 2. Viewing All Expenses:
 
