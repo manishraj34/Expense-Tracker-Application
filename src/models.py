@@ -71,8 +71,8 @@ class ExpenseTracker:
         try:
             with open(filename, "r") as file:
                 reader = csv.DictReader(file)
-                # for row in reader:
-                #     self.add_expense(row["Amount"], row["Date"], row["Category"], row["Description"])
+                for row in reader:
+                    self.add_expense(row["Amount"], row["Date"], row["Category"], row["Description"])
         except FileNotFoundError:
             print("No existing expense data found. Starting fresh.")
 
