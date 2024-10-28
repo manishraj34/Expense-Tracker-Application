@@ -21,34 +21,32 @@ Navigate to the src folder and run the main file:
 
 The application will prompt you to enter the amount, date, category, and description.
 
-<img src="![alt text](image.png)" height="400" width="800">
+<img src="https://github.com/user-attachments/assets/ab6a727e-5e9d-4594-85c1-02daef2e2594" height="400" width="800">
 
 2. Viewing All Expenses:
 
 Select the "View Expenses" option from the menu to see a list of all expenses.
-![image](https://github.com/user-attachments/assets/1a870a0f-0ddc-4afa-87c2-806e8db6cf12 )
+<img src="https://github.com/user-attachments/assets/549588a8-49b2-4beb-a15d-fbace66328d0" height="400" width="800">
 
 3. Deleting an Expenses:
 
-![image](https://github.com/user-attachments/assets/7203cdeb-6d7f-49e5-a62d-2a8085bc2af0)
-![image](https://github.com/user-attachments/assets/dc68a1ce-fce0-40ab-812a-defe9c162611)
-
+<img src="https://github.com/user-attachments/assets/796bae34-4211-4084-b8aa-c9ba023cf435" height="400" width="800">
 
 4. Saving Expenses to CSV:
 - The application automatically saves expenses to a CSV file after each session.
 - The data is stored in the data/expenses.csv file.
-  ![image](https://github.com/user-attachments/assets/6bd2add9-4c1a-4b3e-aaca-4e45fae0dd53)
+ <img src="https://github.com/user-attachments/assets/516454e7-5a67-4d28-9219-899a747ab5bf" height="400" width="800">
 
 
 5. Loading Expenses from CSV:
 
 Upon starting, the application loads previous expenses from the CSV file, so your data is always preserved.
-![image](https://github.com/user-attachments/assets/9b45d14c-6a45-4441-89c5-679942f950b5)
+<img src="https://github.com/user-attachments/assets/be4424d7-6310-43f3-a945-d3c2e8017452" height="400" width="800">
 
 6. Generating Reports: 
 
 You can generate reports for daily, weekly, or monthly expenses.
-![image](https://github.com/user-attachments/assets/b575d1df-14dd-42a5-8058-fd000d10815f)
+<img src="https://github.com/user-attachments/assets/150bc764-9053-413d-bca1-97f12fbdfe10" height="400" width="800">
 
 ## Known Issues
 - Date Format: The application currently supports only the YYYY-MM-DD format for dates.
